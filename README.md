@@ -25,6 +25,7 @@ React.js, Vue.js (2.x and 3.x), Angular, Svelte, jQuery, Preact, Inferno, Riot.j
 
 ### Table of Contents
 
+- [Websites](#Websites)
 - [Vanilla JavaScript Resources](#Vanilla-JavaScript-Resources)
 - [Angular Resources](#Angular-Resources)
 - [Ember.js Resources](#Emberjs-Resources)
@@ -40,11 +41,15 @@ React.js, Vue.js (2.x and 3.x), Angular, Svelte, jQuery, Preact, Inferno, Riot.j
 - [Vue.js 3.x Resources](#Vuejs-3x-Resources)
 - [Web Components Resources](#Web-Components-Resources)
 - [WordPress Resources](#WordPress-Resources)
-- [Websites](#Websites)
+
+### Websites
+
+- Official Website: https://particles.js.org/
+- Official Confetti Website: https://confetti.js.org/
 
 ### Vanilla JavaScript Resources 
 
-- Main Repository: https://github.com/matteobruni/tsparticles
+- Main Repository: https://github.com/matteobruni/tsparticles ⭐️
 - Landing Page Template: https://github.com/tsparticles/landing-page-template
 - 404 Pages Templates: https://github.com/tsparticles/404-templates
 - Auth Page Template: https://github.com/tsparticles/auth-template
@@ -55,32 +60,32 @@ React.js, Vue.js (2.x and 3.x), Angular, Svelte, jQuery, Preact, Inferno, Riot.j
 
 ### Angular Resources
 
-- Component Repository: https://github.com/tsparticles/angular/tree/legacy
+- Component Repository: https://github.com/tsparticles/angular/tree/legacy ⭐️
 - Auth Page Template: https://github.com/tsparticles/angular-auth-template
 
 ### Ember.js Resources
 
-- Component Repository: https://github.com/tsparticles/ember/tree/legacy 
+- Component Repository: https://github.com/tsparticles/ember/tree/legacy ⭐️
 
 ### Inferno.js Resources
 
-- Component Repository: https://github.com/tsparticles/inferno/tree/legacy 
+- Component Repository: https://github.com/tsparticles/inferno/tree/legacy ⭐️
 
 ### jQuery Resources
 
-- Component Repository: https://github.com/tsparticles/jquery/tree/legacy 
+- Component Repository: https://github.com/tsparticles/jquery/tree/legacy ⭐️
 
 ### Lit Resources
 
-- Component Repository: https://github.com/tsparticles/lit/tree/legacy 
+- Component Repository: https://github.com/tsparticles/lit/tree/legacy ⭐️
 
 ### Preact Resources
 
-- Component Repository: https://github.com/tsparticles/preact/tree/legacy 
+- Component Repository: https://github.com/tsparticles/preact/tree/legacy ⭐️ 
 
 ### React.js Resources
 
-- Component Repository: https://github.com/tsparticles/react/tree/legacy
+- Component Repository: https://github.com/tsparticles/react/tree/legacy ⭐️
 - CRA Templates: https://github.com/tsparticles/create-react-app-templates
 - Gatsby Landing Page Starter: https://github.com/tsparticles/gatsby-landing-page-starter
 - Landing Page Template: https://github.com/tsparticles/react-landing-page-template
@@ -92,40 +97,35 @@ React.js, Vue.js (2.x and 3.x), Angular, Svelte, jQuery, Preact, Inferno, Riot.j
 
 ### Riot.js Resources
 
-- Component Repository: https://github.com/tsparticles/riot/tree/legacy
+- Component Repository: https://github.com/tsparticles/riot/tree/legacy ⭐️
 
 ### Solid Resources
 
-- Component Repository: https://github.com/tsparticles/solid/tree/legacy 
+- Component Repository: https://github.com/tsparticles/solid/tree/legacy ⭐️
 
 ### Svelte Resources
 
-- Component Repository: https://github.com/tsparticles/svelte/tree/legacy
+- Component Repository: https://github.com/tsparticles/svelte/tree/legacy ⭐️
 - Auth Template: https://github.com/tsparticles/svelte-auth-template
 
 ### Vue.js 2.x Resources
 
-- Component Repository: https://github.com/tsparticles/vue2/tree/legacy
+- Component Repository: https://github.com/tsparticles/vue2/tree/legacy ⭐️
 - Auth Template: https://github.com/tsparticles/vue-auth-template 
 
 ### Vue.js 3.x Resources
 
-- Component Repository: https://github.com/tsparticles/vue3/tree/legacy
+- Component Repository: https://github.com/tsparticles/vue3/tree/legacy ⭐️
 - Auth Template: https://github.com/tsparticles/vue3-auth-template
 - Demo: https://github.com/tsparticles/vue3-demo
 - Video: https://youtu.be/-QREr35VFBQ 
 
 ### Web Components Resources
 
-- Component Repository: https://github.com/tsparticles/webcomponents/tree/legacy 
+- Component Repository: https://github.com/tsparticles/webcomponents/tree/legacy ⭐️
 
 ### WordPress Resources
 
-- Component Repository: https://github.com/tsparticles/wordpress/tree/legacy
-- Official Plugin: https://wordpress.org/plugins/tsparticles-block
+- Component Repository: https://github.com/tsparticles/wordpress/tree/legacy ⭐️
+- Official Plugin: https://wordpress.org/plugins/tsparticles-block ⭐️
 - Elementor 3rd Party Plugin: https://premiumaddons.com/particles-section-addon-for-elementor-page-builder/ 
-
-### Websites
-
-- Official Website: https://particles.js.org/
-- Official Confetti Website: https://confetti.js.org/
