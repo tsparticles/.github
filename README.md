@@ -6,7 +6,7 @@
 React.js, Vue.js (2.x and 3.x), Angular, Svelte, jQuery, Preact, Inferno, Riot.js, Solid.js, and Web Components**
 
 [![Personal GitHub Sponsors](https://img.shields.io/github/sponsors/matteobruni?style=for-the-badge)](https://github.com/sponsors/matteobruni)
-[![Organization GitHub Sponsors](https://img.shields.io/github/sponsors/matteobruni?style=for-the-badge)](https://github.com/sponsors/tsparticles)
+[![Organization GitHub Sponsors](https://img.shields.io/github/sponsors/tsparticles?style=for-the-badge)](https://github.com/sponsors/tsparticles)
 [![jsDelivr hits (npm)](https://img.shields.io/jsdelivr/npm/hm/tsparticles?style=for-the-badge)](https://www.jsdelivr.com/package/npm/tsparticles)
 [![Cdnjs](https://img.shields.io/cdnjs/v/tsparticles-engine?style=for-the-badge)](https://cdnjs.com/libraries/tsparticles)
 [![npm](https://img.shields.io/npm/v/tsparticles-engine?style=for-the-badge)](https://www.npmjs.com/package/tsparticles)
