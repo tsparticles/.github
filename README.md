@@ -20,3 +20,112 @@ React.js, Vue.js (2.x and 3.x), Angular, Svelte, jQuery, Preact, Inferno, Riot.j
 
 [![tsParticles Product Hunt](https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=186113&theme=light)](https://www.producthunt.com/posts/tsparticles?utm_source=badge-featured&utm_medium=badge&utm_souce=badge-tsparticles")
 [![Buy Me A Coffee](https://img.buymeacoffee.com/button-api/?text=Buy%20me%20a%20beer&emoji=🍺&slug=matteobruni&button_colour=5F7FFF&font_colour=ffffff&font_family=Arial&outline_colour=000000&coffee_colour=FFDD00")](https://www.buymeacoffee.com/matteobruni) <a href="https://linktr.ee/tsparticles"><img alt="Linktree" height="30" src="https://particles.js.org/images/linktree.svg" /></a>
+
+## tsParticles Official Resources
+
+### Table of Contents
+
+- [Vanilla JavaScript Resources](#Vanilla-JavaScript-Resources)
+- [Angular Resources](#Angular-Resources)
+- [Ember.js Resources](#Ember.js-Resources)
+- [Inferno.js Resources](#Inferno.js-Resources)
+- [jQuery Resources](#jQuery-Resources)
+- [Lit Resources](#Lit-Resources)
+- [Preact Resources](#Preact-Resources)
+- [React.js Resources](#React.js-Resources)
+- [Riot.js Resources](#Riot.js-Resources)
+- [Solid Resources](#Solid-Resources)
+- [Svelte Resources](#Svelte-Resources)
+- [Vue.js 2.x Resources](#Vue.js-2.x-Resources)
+- [Vue.js 3.x Resources](#Vue.js-3.x-Resources)
+- [Web Components Resources](#Web-Components-Resources)
+- [WordPress Resources](#WordPress-Resources)
+- [Websites](#Websites)
+
+### Vanilla JavaScript Resources 
+
+- Main Repository: https://github.com/matteobruni/tsparticles
+- Landing Page Template: https://github.com/tsparticles/landing-page-template
+- 404 Pages Templates: https://github.com/tsparticles/404-templates
+- Auth Page Template: https://github.com/tsparticles/auth-template
+- Glass Auth Page Template: https://github.com/tsparticles/glass-auth-template
+- Demo: https://github.com/tsparticles/vanilla-demo
+- Video: https://youtu.be/Q0Lf1GGlenY
+- tsParticles Editor Repository: https://github.com/tsparticles/editor
+
+### Angular Resources
+
+- Component Repository: https://github.com/tsparticles/angular/tree/legacy
+- Auth Page Template: https://github.com/tsparticles/angular-auth-template
+
+### Ember.js Resources
+
+- Component Repository: https://github.com/tsparticles/ember/tree/legacy 
+
+### Inferno.js Resources
+
+- Component Repository: https://github.com/tsparticles/inferno/tree/legacy 
+
+### jQuery Resources
+
+- Component Repository: https://github.com/tsparticles/jquery/tree/legacy 
+
+### Lit Resources
+
+- Component Repository: https://github.com/tsparticles/lit/tree/legacy 
+
+### Preact Resources
+
+- Component Repository: https://github.com/tsparticles/preact/tree/legacy 
+
+### React.js Resources
+
+- Component Repository: https://github.com/tsparticles/react/tree/legacy
+- CRA Templates: https://github.com/tsparticles/create-react-app-templates
+- Gatsby Landing Page Starter: https://github.com/tsparticles/gatsby-landing-page-starter
+- Landing Page Template: https://github.com/tsparticles/react-landing-page-template
+- Auth Page Template: https://github.com/tsparticles/react-auth-template
+- Glass Auth Page Template: https://github.com/tsparticles/react-glass-auth-template
+- Storybook: https://github.com/tsparticles/storybook
+- Demo: https://github.com/tsparticles/react-demo
+- Video: https://youtu.be/uuohRbc18zE 
+
+### Riot.js Resources
+
+- Component Repository: https://github.com/tsparticles/riot/tree/legacy
+
+### Solid Resources
+
+- Component Repository: https://github.com/tsparticles/solid/tree/legacy 
+
+### Svelte Resources
+
+- Component Repository: https://github.com/tsparticles/svelte/tree/legacy
+- Auth Template: https://github.com/tsparticles/svelte-auth-template
+
+### Vue.js 2.x Resources
+
+- Component Repository: https://github.com/tsparticles/vue2/tree/legacy
+- Auth Template: https://github.com/tsparticles/vue-auth-template 
+
+### Vue.js 3.x Resources
+
+- Component Repository: https://github.com/tsparticles/vue3/tree/legacy
+- Auth Template: https://github.com/tsparticles/vue3-auth-template
+- Demo: https://github.com/tsparticles/vue3-demo
+- Video: https://youtu.be/-QREr35VFBQ 
+
+### Web Components Resources
+
+- Component Repository: https://github.com/tsparticles/webcomponents/tree/legacy 
+
+### WordPress Resources
+
+- Component Repository: https://github.com/tsparticles/wordpress/tree/legacy
+- Official Plugin: https://wordpress.org/plugins/tsparticles-block
+- Elementor 3rd Party Plugin: https://premiumaddons.com/particles-section-addon-for-elementor-page-builder/ 
+
+### Websites
+
+- Official Website: https://particles.js.org/
+- Official Confetti Website: https://confetti.js.org/
