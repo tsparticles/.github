@@ -36,6 +36,7 @@ React.js, Vue.js (2.x and 3.x), Angular, Svelte, jQuery, Preact, Inferno, Riot.j
 - [React.js Resources](#Reactjs-Resources)
 - [Riot.js Resources](#Riot-js-Resources)
 - [Solid Resources](#Solid-Resources)
+- [Stencil Resources](#Stencil-Resources)
 - [Svelte Resources](#Svelte-Resources)
 - [Vue.js 2.x Resources](#Vuejs-2x-Resources)
 - [Vue.js 3.x Resources](#Vuejs-3x-Resources)
@@ -102,6 +103,10 @@ React.js, Vue.js (2.x and 3.x), Angular, Svelte, jQuery, Preact, Inferno, Riot.j
 ### Solid Resources
 
 - Component Repository: https://github.com/tsparticles/solid
+
+### Stencil Resources
+
+- Component Repository: https://github.com/tsparticles/stencil
 
 ### Svelte Resources
 
