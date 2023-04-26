@@ -27,6 +27,7 @@ React.js, Vue.js (2.x and 3.x), Angular, Svelte, jQuery, Preact, Inferno, Riot.j
 
 - [Vanilla JavaScript Resources](#Vanilla-JavaScript-Resources)
 - [Angular Resources](#Angular-Resources)
+- [Astro Resources](#Astro-Resources)
 - [Ember.js Resources](#Emberjs-Resources)
 - [Inferno.js Resources](#Infernojs-Resources)
 - [jQuery Resources](#jQuery-Resources)
@@ -55,32 +56,36 @@ React.js, Vue.js (2.x and 3.x), Angular, Svelte, jQuery, Preact, Inferno, Riot.j
 
 ### Angular Resources
 
-- Component Repository: https://github.com/tsparticles/angular/tree/legacy
+- Component Repository: https://github.com/tsparticles/angular
 - Auth Page Template: https://github.com/tsparticles/angular-auth-template
+
+### Astro Resources
+
+- Component Repository: https://github.com/tsparticles/astro
 
 ### Ember.js Resources
 
-- Component Repository: https://github.com/tsparticles/ember/tree/legacy 
+- Component Repository: https://github.com/tsparticles/ember
 
 ### Inferno.js Resources
 
-- Component Repository: https://github.com/tsparticles/inferno/tree/legacy 
+- Component Repository: https://github.com/tsparticles/inferno
 
 ### jQuery Resources
 
-- Component Repository: https://github.com/tsparticles/jquery/tree/legacy 
+- Component Repository: https://github.com/tsparticles/jquery
 
 ### Lit Resources
 
-- Component Repository: https://github.com/tsparticles/lit/tree/legacy 
+- Component Repository: https://github.com/tsparticles/lit
 
 ### Preact Resources
 
-- Component Repository: https://github.com/tsparticles/preact/tree/legacy 
+- Component Repository: https://github.com/tsparticles/preact
 
 ### React.js Resources
 
-- Component Repository: https://github.com/tsparticles/react/tree/legacy
+- Component Repository: https://github.com/tsparticles/react
 - CRA Templates: https://github.com/tsparticles/create-react-app-templates
 - Gatsby Landing Page Starter: https://github.com/tsparticles/gatsby-landing-page-starter
 - Landing Page Template: https://github.com/tsparticles/react-landing-page-template
@@ -92,36 +97,36 @@ React.js, Vue.js (2.x and 3.x), Angular, Svelte, jQuery, Preact, Inferno, Riot.j
 
 ### Riot.js Resources
 
-- Component Repository: https://github.com/tsparticles/riot/tree/legacy
+- Component Repository: https://github.com/tsparticles/riot
 
 ### Solid Resources
 
-- Component Repository: https://github.com/tsparticles/solid/tree/legacy 
+- Component Repository: https://github.com/tsparticles/solid
 
 ### Svelte Resources
 
-- Component Repository: https://github.com/tsparticles/svelte/tree/legacy
+- Component Repository: https://github.com/tsparticles/svelte
 - Auth Template: https://github.com/tsparticles/svelte-auth-template
 
 ### Vue.js 2.x Resources
 
-- Component Repository: https://github.com/tsparticles/vue2/tree/legacy
+- Component Repository: https://github.com/tsparticles/vue2
 - Auth Template: https://github.com/tsparticles/vue-auth-template 
 
 ### Vue.js 3.x Resources
 
-- Component Repository: https://github.com/tsparticles/vue3/tree/legacy
+- Component Repository: https://github.com/tsparticles/vue3
 - Auth Template: https://github.com/tsparticles/vue3-auth-template
 - Demo: https://github.com/tsparticles/vue3-demo
 - Video: https://youtu.be/-QREr35VFBQ 
 
 ### Web Components Resources
 
-- Component Repository: https://github.com/tsparticles/webcomponents/tree/legacy 
+- Component Repository: https://github.com/tsparticles/webcomponents
 
 ### WordPress Resources
 
-- Component Repository: https://github.com/tsparticles/wordpress/tree/legacy
+- Component Repository: https://github.com/tsparticles/wordpress
 - Official Plugin: https://wordpress.org/plugins/tsparticles-block
 - Elementor 3rd Party Plugin: https://premiumaddons.com/particles-section-addon-for-elementor-page-builder/ 
 
