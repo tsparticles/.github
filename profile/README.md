@@ -47,6 +47,7 @@ React.js, Vue.js (2.x and 3.x), Angular, Svelte, jQuery, Preact, Inferno, Riot.j
 ### Vanilla JavaScript Resources 
 
 - Main Repository: https://github.com/matteobruni/tsparticles
+- Particles.js Compatibility Library: https://github.com/tsparticles/particles.js
 - Landing Page Template: https://github.com/tsparticles/landing-page-template
 - 404 Pages Templates: https://github.com/tsparticles/404-templates
 - Auth Page Template: https://github.com/tsparticles/auth-template
