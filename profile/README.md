@@ -38,8 +38,9 @@ React.js, Vue.js (2.x and 3.x), Angular, Svelte, jQuery, Preact, Inferno, Riot.j
 - [Solid Resources](#Solid-Resources)
 - [Stencil Resources](#Stencil-Resources)
 - [Svelte Resources](#Svelte-Resources)
-- [Vue.js 2.x Resources](#Vuejs-2x-Resources)
-- [Vue.js 3.x Resources](#Vuejs-3x-Resources)
+- [Vue.js Resources](#Vuejs-Resources)
+  - [Vue.js 2.x Resources](#Vuejs-2x-Resources)
+  - [Vue.js 3.x Resources](#Vuejs-3x-Resources)
 - [Web Components Resources](#Web-Components-Resources)
 - [WordPress Resources](#WordPress-Resources)
 - [Websites](#Websites)
@@ -113,12 +114,16 @@ React.js, Vue.js (2.x and 3.x), Angular, Svelte, jQuery, Preact, Inferno, Riot.j
 - Component Repository: https://github.com/tsparticles/svelte
 - Auth Template: https://github.com/tsparticles/svelte-auth-template
 
-### Vue.js 2.x Resources
+### Vue.jx Resources
+
+- Component Repository: https://github.com/tsparticles/vue
+
+#### Vue.js 2.x Resources
 
 - Component Repository: https://github.com/tsparticles/vue2
 - Auth Template: https://github.com/tsparticles/vue-auth-template 
 
-### Vue.js 3.x Resources
+#### Vue.js 3.x Resources
 
 - Component Repository: https://github.com/tsparticles/vue3
 - Auth Template: https://github.com/tsparticles/vue3-auth-template
